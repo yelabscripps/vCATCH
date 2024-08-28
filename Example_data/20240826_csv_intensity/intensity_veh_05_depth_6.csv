@@ -1,0 +1,295 @@
+LabelID,LabelAbrv,LabelName,ParentID,IDPath,RegionalName,Mean,Min,Max,Count,Volume(mm^3)
+1052,RPPN,Right Pedunculopontine nucleus,348.0,/997/8/343/313/348/1052/,Right Midbrain,21.80468,7.41176,35.0,32619.0,0.211
+1022,RGPe,Right Globus pallidus external segment,818.0,/997/8/567/623/803/818/1022/,Right Cerebral nuclei,21.51992,8.96056,35.0,81157.0,0.526
+1092,Rem,Right external medullary lamina of the thalamus,896.0,/997/1009/983/896/1092/,Right fiber tracts,21.42969,9.96086,35.0,3715.0,0.024
+1031,RGPi,Right Globus pallidus internal segment,818.0,/997/8/567/623/803/818/1031/,Right Cerebral nuclei,21.36472,8.47082,35.0,20860.0,0.135
+470,RSTN,Right Subthalamic nucleus,290.0,/997/8/343/1129/1097/290/470/,Right Hypothalamus,21.32976,8.74533,35.0,10600.0,0.069
+534,RSUT,Right Supratrigeminal nucleus,987.0,/997/8/343/1065/771/987/534/,Right Pons,21.16214,9.21584,35.0,10309.0,0.067
+271,RSAG,Right Nucleus sagulum,339.0,/997/8/343/313/339/271/,Right Midbrain,21.14967,9.68635,35.0,6253.0,0.041
+6,Rint,Right internal capsule,784.0,/997/1009/983/784/6/,Right fiber tracts,20.99277,4.76493,35.0,142330.0,0.922
+621,RV,Right Motor nucleus of trigeminal,987.0,/997/8/343/1065/771/987/621/,Right Pons,20.95569,8.25505,35.0,23313.0,0.151
+215,RAPN,Right Anterior pretectal nucleus,1100.0,/997/8/343/313/323/1100/215/,Right Midbrain,20.95551,7.78454,35.0,80249.0,0.52
+616,RCUN,Right Cuneiform nucleus,323.0,/997/8/343/313/323/616/,Right Midbrain,20.94736,7.43153,35.0,19741.0,0.128
+637,RVENT,Right Ventral group of the dorsal thalamus,864.0,/997/8/343/1129/549/864/637/,Right Thalamus,20.927823207739394,6.48997,35.0,242448.0,1.571
+246,RRR,Right Midbrain reticular nucleus retrorubral area,323.0,/997/8/343/313/323/246/,Right Midbrain,20.8734,7.3135,35.0,32417.0,0.21
+262,RRT,Right Reticular nucleus of the thalamus,856.0,/997/8/343/1129/549/856/262/,Right Thalamus,20.86145,7.47051,35.0,79206.0,0.513
+138,RLAT,Right Lateral group of the dorsal thalamus,856.0,/997/8/343/1129/549/856/138/,Right Thalamus,20.663372371576894,6.41199,35.0,165274.0,1.071
+797,RZI,Right Zona incerta,290.0,/997/8/343/1129/1097/290/797/,Right Hypothalamus,20.644890632863547,6.00023,35.0,92595.0,0.6
+128,RMRN,Right Midbrain reticular nucleus,323.0,/997/8/343/313/323/128/,Right Midbrain,20.51903,2.00008,35.0,327209.0,2.12
+580,RNB,Right Nucleus of the brachium of the inferior colliculus,339.0,/997/8/343/313/339/580/,Right Midbrain,20.39167,8.17655,35.0,9762.0,0.063
+214,RRN,Right Red nucleus,323.0,/997/8/343/313/323/214/,Right Midbrain,20.39114,7.25475,35.0,41276.0,0.267
+374,RSNc,Right Substantia nigra compact part,348.0,/997/8/343/313/348/374/,Right Midbrain,20.37608,6.39223,35.0,13718.0,0.089
+1008,RGENd,Right Geniculate group dorsal thalamus,864.0,/997/8/343/1129/549/864/1008/,Right Thalamus,20.157778102595483,7.66651,35.0,78444.0,0.508
+301,Rst,Right stria terminalis,768.0,/997/1009/991/768/301/,Right fiber tracts,20.02372,7.01976,35.0,42072.0,0.273
+406,RSPF,Right Subparafascicular nucleus,864.0,/997/8/343/1129/549/864/406/,Right Thalamus,19.993703921640126,6.00023,35.0,24681.0,0.16
+372,RICB,Right Infracerebellar nucleus,370.0,/997/8/343/1065/354/370/372/,Right Medulla,19.93466,9.47059,32.99992,469.0,0.003
+781,Ry,Right Nucleus y,370.0,/997/8/343/1065/354/370/781/,Right Medulla,19.91633,12.23545,35.0,1226.0,0.008
+867,RPB,Right Parabrachial nucleus,1132.0,/997/8/343/1065/771/1132/867/,Right Pons,19.91279,6.00023,35.0,55740.0,0.361
+765,Rx,Right Nucleus x,370.0,/997/8/343/1065/354/370/765/,Right Medulla,19.88556,9.25483,35.0,3344.0,0.022
+14,Rim,Right internal medullary lamina of the thalamus,896.0,/997/1009/983/896/14/,Right fiber tracts,19.7271,14.17624,32.58816,24.0,0.0
+672,RCP,Right Caudoputamen,485.0,/997/8/567/623/477/485/672/,Right Cerebral nuclei,19.69016,4.00015,35.0,1441200.0,9.339
+1014,RGENv,Right Geniculate group ventral thalamus,856.0,/997/8/343/1129/549/856/1014/,Right Thalamus,19.650273105310532,7.17624,35.0,34441.0,0.224
+106,RISN,Right Inferior salivatory nucleus,370.0,/997/8/343/1065/354/370/106/,Right Medulla,19.43693,10.05859,35.0,402.0,0.003
+628,RNOT,Right Nucleus of the optic tract,1100.0,/997/8/343/313/323/1100/628/,Right Midbrain,19.32636,8.88258,33.98047,4689.0,0.03
+91,RIP,Right Interposed nucleus,519.0,/997/8/512/519/91/,Right Cerebellum,19.31654,6.48997,35.0,43150.0,0.28
+381,RSNr,Right Substantia nigra reticular part,323.0,/997/8/343/313/323/381/,Right Midbrain,19.25356,3.19585,35.0,113544.0,0.736
+303,RBLAa,Right Basolateral amygdalar nucleus anterior part,295.0,/997/8/567/688/703/295/303/,Right Cerebral cortex,19.20123,6.41199,35.0,38012.0,0.246
+326,Rscp,Right superior cerebelar peduncles,752.0,/997/1009/960/752/326/,Right fiber tracts,19.03245,6.00023,35.0,27326.0,0.177
+536,RCEA,Right Central amygdalar nucleus,278.0,/997/8/567/623/477/278/536/,Right Cerebral nuclei,18.92611,5.19593,35.0,66789.0,0.433
+146,RPRNr,Right Pontine reticular nucleus,1117.0,/997/8/343/1065/771/1117/146/,Right Pons,18.87973,2.00008,35.0,165743.0,1.074
+549,RTH,Right Thalamus,1129.0,/997/8/343/1129/549/,Right Thalamus,18.85964,0.99977,35.0,277317.0,1.797
+658,Rll,Right lateral lemniscus,948.0,/997/1009/967/933/948/658/,Right fiber tracts,18.63753,2.00008,35.0,58728.0,0.381
+239,RATN,Right Anterior group of the dorsal thalamus,856.0,/997/8/343/1129/549/856/239/,Right Thalamus,18.61334476972077,4.00015,35.0,126846.0,0.821
+66,RLT,Right Lateral terminal nucleus of the accessory optic tract,323.0,/997/8/343/313/323/66/,Right Midbrain,18.53221,11.00015,30.35309,316.0,0.002
+884,Ramc,Right amygdalar capsule,768.0,/997/1009/991/768/884/,Right fiber tracts,18.49938,8.66682,35.0,2893.0,0.019
+350,RSLC,Right Subceruleus nucleus,1117.0,/997/8/343/1065/771/1117/350/,Right Pons,18.43781,7.99977,34.92149,1860.0,0.012
+131,RLA,Right Lateral amygdalar nucleus,703.0,/997/8/567/688/703/131/,Right Cerebral cortex,18.36586,6.17647,35.0,48214.0,0.312
+877,Rtsp,Right tectospinal pathway,1000.0,/997/1009/1000/877/,Right fiber tracts,18.34409,0.99977,35.0,9673.0,0.063
+356,RPST,Right Preparasubthalamic nucleus,290.0,/997/8/343/1129/1097/290/356/,Right Hypothalamus,18.32363,8.88258,29.78431,622.0,0.004
+1044,RPP,Right Peripeduncular nucleus,864.0,/997/8/343/1129/549/864/1044/,Right Thalamus,18.30028,7.47051,35.0,3294.0,0.021
+603,Rfi,Right fimbria,1099.0,/997/1009/991/768/1099/603/,Right fiber tracts,18.19327,4.23514,35.0,87452.0,0.567
+17,RSCiw,Right Superior colliculus motor related intermediate white layer,294.0,/997/8/343/313/323/294/17/,Right Midbrain,18.14691,0.99977,35.0,131453.0,0.852
+908,Ract,Right anterior commissure temporal limb,768.0,/997/1009/991/768/908/,Right fiber tracts,18.14309,4.00015,35.0,9988.0,0.065
+749,RVTA,Right Ventral tegmental area,323.0,/997/8/343/313/323/749/,Right Midbrain,18.10403,2.00008,35.0,54640.0,0.354
+757,RVTN,Right Ventral tegmental nucleus,323.0,/997/8/343/313/323/757/,Right Midbrain,17.98262,6.90173,35.0,2066.0,0.013
+583,RCLA,Right Claustrum,703.0,/997/8/567/688/703/583/,Right Cerebral cortex,17.91624,6.21546,35.0,33217.0,0.215
+364,RPSTN,Right Parasubthalamic nucleus,290.0,/997/8/343/1129/1097/290/364/,Right Hypothalamus,17.8059,8.58831,35.0,3001.0,0.019
+1061,RPPT,Right Posterior pretectal nucleus,1100.0,/997/8/343/313/323/1100/1061/,Right Midbrain,17.77784,6.78424,34.47074,3177.0,0.021
+874,RPBG,Right Parabigeminal nucleus,339.0,/997/8/343/313/339/874/,Right Midbrain,17.73704,4.99992,35.0,5469.0,0.035
+311,RBLAp,Right Basolateral amygdalar nucleus posterior part,295.0,/997/8/567/688/703/295/311/,Right Cerebral cortex,17.70868,5.98047,35.0,33921.0,0.22
+952,REPd,Right Endopiriform nucleus dorsal part,942.0,/997/8/567/688/703/942/952/,Right Cerebral cortex,17.63908,6.00023,35.0,108054.0,0.7
+287,RBAC,Right Bed nucleus of the anterior commissure,809.0,/997/8/567/623/803/809/287/,Right Cerebral nuclei,17.63769,10.64713,29.39231,377.0,0.002
+634,RNPC,Right Nucleus of the posterior commissure,1100.0,/997/8/343/313/323/1100/634/,Right Midbrain,17.61526,0.99977,34.70573,11561.0,0.075
+653,RVI,Right Abducens nucleus,370.0,/997/8/343/1065/354/370/653/,Right Medulla,17.46621,7.05875,35.0,1449.0,0.009
+802,Rsm,Right stria medullaris,1083.0,/997/1009/991/824/1083/802/,Right fiber tracts,17.42506,6.00023,35.0,14262.0,0.092
+10,RSCig,Right Superior colliculus motor related intermediate gray layer,294.0,/997/8/343/313/323/294/10/,Right Midbrain,17.399385503635603,0.99977,35.0,165447.0,1.0719999999999998
+231,RAT,Right Anterior tegmental nucleus,323.0,/997/8/343/313/323/231/,Right Midbrain,17.33073,3.82338,35.0,737.0,0.005
+595,Rfr,Right fasciculus retroflexus,1083.0,/997/1009/991/824/1083/595/,Right fiber tracts,17.32727,4.99992,35.0,8470.0,0.055
+846,RDN,Right Dentate nucleus,519.0,/997/8/512/519/846/,Right Cerebellum,17.28309,6.01946,35.0,16110.0,0.104
+798,RVIIn,Right facial nerve,967.0,/997/1009/967/798/,Right fiber tracts,17.20793,4.00015,35.0,6166.0,0.04
+313,RMB,Right Midbrain,343.0,/997/8/343/313/,Right Midbrain,17.20405,0.99977,35.0,315919.0,2.047
+351,RBST,Right Bed nuclei of the stria terminalis,809.0,/997/8/567/623/803/809/351/,Right Cerebral nuclei,17.20037,4.82368,35.0,77903.0,0.505
+705,RmtV,Right midbrain tract of the trigeminal nerve,229.0,/997/1009/967/901/229/705/,Right fiber tracts,17.19437,7.25475,34.48997,587.0,0.004
+701,RVNC,Right Vestibular nuclei,370.0,/997/8/343/1065/354/370/701/,Right Medulla,17.143096662845153,2.99985,35.0,143922.0,0.933
+51,RILM,Right Intralaminar nuclei of the dorsal thalamus,856.0,/997/8/343/1129/549/856/51/,Right Thalamus,17.119009606981646,3.49012,35.0,66460.0,0.42999999999999994
+1009,Rfiber tracts,Right fiber tracts,997.0,/997/1009/,Right fiber tracts,16.95276,0.99977,35.0,218426.0,1.415
+690,Rmtt,Right mammilothalmic tract,46.0,/997/1009/991/824/46/690/,Right fiber tracts,16.90534,5.21569,35.0,9504.0,0.062
+1080,RHIP,Right Hippocampal region,1089.0,/997/8/567/688/695/1089/1080/,Right Cerebral cortex,16.801784954905976,1.35279,35.0,1526588.0,9.891000000000002
+358,RSLD,Right Sublaterodorsal nucleus,1117.0,/997/8/343/1065/771/1117/358/,Right Pons,16.74992,6.70573,34.43122,4495.0,0.029
+26,RSCdg,Right Superior colliculus motor related deep gray layer,294.0,/997/8/343/313/323/294/26/,Right Midbrain,16.70311,0.99977,35.0,70440.0,0.456
+1105,RIA,Right Intercalated amygdalar nucleus,278.0,/997/8/567/623/477/278/1105/,Right Cerebral nuclei,16.68932,5.58846,35.0,10281.0,0.067
+278,RsAMY,Right Striatum-like amygdalar nuclei,477.0,/997/8/567/623/477/278/,Right Cerebral nuclei,16.52632,4.00015,35.0,8417.0,0.055
+1093,RPRNc,Right Pontine reticular nucleus caudal part,987.0,/997/8/343/1065/771/987/1093/,Right Pons,16.47058,0.99977,35.0,199397.0,1.292
+403,RMEA,Right Medial amygdalar nucleus,278.0,/997/8/567/623/477/278/403/,Right Cerebral nuclei,16.44834,4.00015,35.0,89823.0,0.582
+703,RCTXsp,Right Cortical subplate,688.0,/997/8/567/688/703/,Right Cerebral cortex,16.43956,2.4316,35.0,73497.0,0.476
+67,RINC,Right Interstitial nucleus of Cajal,795.0,/997/8/343/313/323/795/67/,Right Midbrain,16.41389,6.00023,32.49043,2528.0,0.016
+460,RMEV,Right Midbrain trigeminal nucleus,339.0,/997/8/343/313/339/460/,Right Midbrain,16.35298,6.52949,33.74495,1380.0,0.009
+482,Rbic,Right brachium of the inferior colliculus,948.0,/997/1009/967/933/948/482/,Right fiber tracts,16.33602,4.5684,35.0,19193.0,0.124
+998,RFS,Right Fundus of striatum,493.0,/997/8/567/623/477/493/998/,Right Cerebral nuclei,16.33574,4.99992,35.0,16598.0,0.108
+444,RMED,Right Medial group of the dorsal thalamus,856.0,/997/8/343/1129/549/856/444/,Right Thalamus,16.33208909561946,2.99985,35.0,88779.0,0.575
+989,RFN,Right Fastigial nucleus,519.0,/997/8/512/519/989/,Right Cerebellum,16.27976,4.99992,35.0,27217.0,0.176
+911,RIVn,Right trochlear nerve,967.0,/997/1009/967/911/,Right fiber tracts,16.2712,6.62722,27.35271,184.0,0.001
+342,RSI,Right Substantia innominata,835.0,/997/8/567/623/803/835/342/,Right Cerebral nuclei,16.25055,2.00008,35.0,136382.0,0.884
+7,RPSV,Right Principal sensory nucleus of the trigeminal,1132.0,/997/8/343/1065/771/1132/7/,Right Pons,16.07301,2.00008,35.0,72711.0,0.471
+852,RPARN,Right Parvicellular reticular nucleus,370.0,/997/8/343/1065/354/370/852/,Right Medulla,16.01555,2.56886,35.0,122723.0,0.795
+436,Rfx,Right columns of the fornix,737.0,/997/1009/991/768/1099/737/436/,Right fiber tracts,15.97599,4.99992,35.0,14265.0,0.092
+466,Ralv,Right alveus,1099.0,/997/1009/991/768/1099/466/,Right fiber tracts,15.93424,4.49043,35.0,17844.0,0.116
+147,RLC,Right Locus ceruleus,1117.0,/997/8/343/1065/771/1117/147/,Right Pons,15.60595,4.31365,29.74533,944.0,0.006
+776,Rcc,Right corpus callosum,983.0,/997/1009/983/776/,Right fiber tracts,15.60446,0.99977,35.0,715114.0,4.634
+706,ROP,Right Olivary pretectal nucleus,1100.0,/997/8/343/313/323/1100/706/,Right Midbrain,15.50623,4.00015,35.0,3908.0,0.025
+966,REPv,Right Endopiriform nucleus ventral part,942.0,/997/8/567/688/703/942/966/,Right Cerebral cortex,15.319640000000001,5.11742,35.0,24134.0,0.156
+194,RLHA,Right Lateral hypothalamic area,290.0,/997/8/343/1129/1097/290/194/,Right Hypothalamus,15.31908,2.82361,35.0,171378.0,1.111
+56,RACB,Right Nucleus accumbens,493.0,/997/8/567/623/477/493/56/,Right Cerebral nuclei,15.30971,3.98039,35.0,203584.0,1.319
+443,Rdhc,Right dorsal hippocampal commissure,618.0,/997/1009/991/768/1099/618/443/,Right fiber tracts,15.28381,0.99977,35.0,54978.0,0.356
+319,RBMA,Right Basomedial amygdalar nucleus,703.0,/997/8/567/688/703/319/,Right Cerebral cortex,15.26819,5.11742,35.0,60231.0,0.39
+136,RIRN,Right Intermediate reticular nucleus,370.0,/997/8/343/1065/354/370/136/,Right Medulla,15.252869999999998,4.00015,35.0,156615.0,1.015
+612,RNLL,Right Nucleus of the lateral lemniscus,1132.0,/997/8/343/1065/771/1132/612/,Right Pons,15.22434,2.00008,35.0,42036.0,0.272
+477,RSTR,Right Striatum,623.0,/997/8/567/623/477/,Right Cerebral nuclei,15.22176,0.99977,35.0,134430.0,0.871
+576,RACVII,Right Accessory facial motor nucleus,370.0,/997/8/343/1065/354/370/576/,Right Medulla,15.21737,8.1178,31.70588,281.0,0.002
+822,RRHP,Right Retrohippocampal region,1089.0,/997/8/567/688/695/1089/822/,Right Cerebral cortex,15.210091299814943,0.99977,35.0,1238007.0,8.021
+679,RCS,Right Superior central nucleus raphe,1117.0,/997/8/343/1065/771/1117/679/,Right Pons,15.16177,0.99977,35.0,55016.0,0.357
+697,Rml,Right medial lemniscus,932.0,/997/1009/967/792/932/697/,Right fiber tracts,15.15862,2.00008,35.0,38267.0,0.248
+42,RSCdw,Right Superior colliculus motor related deep white layer,294.0,/997/8/343/313/323/294/42/,Right Midbrain,15.15627,1.35279,35.0,17611.0,0.114
+125,Ropt,Right optic tract,848.0,/997/1009/967/848/125/,Right fiber tracts,15.14728,2.00008,35.0,39144.0,0.254
+1057,RGU,Right Gustatory areas,315.0,/997/8/567/688/695/315/1057/,Right Cerebral cortex,15.135160394468341,2.00008,35.0,195529.0,1.267
+451,RBLAv,Right Basolateral amygdalar nucleus ventral part,295.0,/997/8/567/688/703/295/451/,Right Cerebral cortex,15.09805,5.31395,35.0,12924.0,0.084
+292,RBA,Right Bed nucleus of the accessory olfactory tract,278.0,/997/8/567/623/477/278/292/,Right Cerebral nuclei,15.0912,5.19593,32.96094,4282.0,0.028
+23,RAAA,Right Anterior amygdalar area,278.0,/997/8/567/623/477/278/23/,Right Cerebral nuclei,15.0781,4.94118,35.0,31555.0,0.204
+95,RAI,Right Agranular insular area,315.0,/997/8/567/688/695/315/95/,Right Cerebral cortex,15.060791769059358,2.00008,35.0,372927.0,2.418
+924,Rcpd,Right cerebal peduncle,784.0,/997/1009/983/784/924/,Right fiber tracts,15.05723,2.13733,35.0,54494.0,0.353
+318,RSG,Right Supragenual nucleus,987.0,/997/8/343/1065/771/987/318/,Right Pons,14.87001,6.25498,28.11749,1139.0,0.007
+203,RLIN,Right Linear nucleus of the medulla,370.0,/997/8/343/1065/354/370/203/,Right Medulla,14.86119,4.47066,29.47082,1458.0,0.009
+4,RIC,Right Inferior colliculus,339.0,/997/8/343/313/339/4/,Right Midbrain,14.80246,1.35279,35.0,343750.0,2.227
+1109,RPS,Right Parastrial nucleus,141.0,/997/8/343/1129/1097/141/1109/,Right Hypothalamus,14.77699,5.50996,33.82345,1266.0,0.008
+728,Rarb,Right arbor vitae,960.0,/997/1009/960/728/,Right fiber tracts,14.76894,1.35279,35.0,350589.0,2.272
+242,RLS,Right Lateral septal nucleus,275.0,/997/8/567/623/477/275/242/,Right Cerebral nuclei,14.715437038836676,0.99977,35.0,168758.0,1.093
+961,RPIR,Right Piriform area,698.0,/997/8/567/688/695/698/961/,Right Cerebral cortex,14.703120000000002,2.00008,35.0,774739.0,5.02
+298,RMA,Right Magnocellular nucleus,835.0,/997/8/567/623/803/835/298/,Right Cerebral nuclei,14.70232,3.58839,35.0,17468.0,0.113
+900,Raco,Right anterior commissure olfactory limb,840.0,/997/1009/967/840/900/,Right fiber tracts,14.69835,3.3331,35.0,51204.0,0.332
+1048,RGRN,Right Gigantocellular reticular nucleus,370.0,/997/8/343/1065/354/370/1048/,Right Medulla,14.56777,1.49004,35.0,127577.0,0.827
+50,RPRC,Right Precommissural nucleus,795.0,/997/8/343/313/323/795/50/,Right Midbrain,14.48064,3.54887,33.84321,3418.0,0.022
+81,RVL,Right lateral ventricle,73.0,/997/73/81/,Right ventricular systems,14.4622,2.99985,35.0,161995.0,1.05
+780,RPA,Right Posterior amygdalar nucleus,703.0,/997/8/567/688/703/780/,Right Cerebral cortex,14.36208,4.23514,35.0,19906.0,0.129
+940,Rcing,Right cingulum bundle,768.0,/997/1009/991/768/940/,Right fiber tracts,14.35943,4.19615,35.0,62081.0,0.402
+453,RSS,Right Somatosensory areas,315.0,/997/8/567/688/695/315/453/,Right Cerebral cortex,14.332082865992207,0.76478,35.0,2047769.0,13.267000000000001
+788,RPAA,Right Piriform-amygdalar area,698.0,/997/8/567/688/695/698/788/,Right Cerebral cortex,14.326329999999999,2.99985,35.0,41308.0,0.268
+677,RVISC,Right Visceral area,315.0,/997/8/567/688/695/315/677/,Right Cerebral cortex,14.164867452965526,0.0,35.0,121985.0,0.791
+631,RCOA,Right Cortical amygdalar area,698.0,/997/8/567/688/695/698/631/,Right Cerebral cortex,14.07891609671804,2.99985,35.0,156827.0,1.016
+587,RND,Right Nucleus of Darkschewitsch,795.0,/997/8/343/313/323/795/587/,Right Midbrain,14.04537,4.00015,31.72564,1142.0,0.007
+226,RLPO,Right Lateral preoptic area,290.0,/997/8/343/1129/1097/290/226/,Right Hypothalamus,13.963219999999998,2.33333,35.0,53848.0,0.349
+673,Rmp,Right mammillary peduncle,46.0,/997/1009/991/824/46/673/,Right fiber tracts,13.96011,6.00023,27.88251,926.0,0.006
+390,RSO,Right Supraoptic nucleus,157.0,/997/8/343/1129/1097/157/390/,Right Hypothalamus,13.95144,5.09819,34.43122,3118.0,0.02
+413,RvVIIIn,Right vestibular nerve,933.0,/997/1009/967/933/413/,Right fiber tracts,13.94233,0.0,35.0,14598.0,0.095
+619,RNLOT,Right Nucleus of the lateral olfactory tract,698.0,/997/8/567/688/695/698/619/,Right Cerebral cortex,13.911623214834416,2.99985,35.0,23432.0,0.15200000000000002
+1033,RCOPY,Right Copula pyramidis,1073.0,/997/8/512/528/1073/1033/,Right Cerebellum,13.91161,2.00008,35.0,134536.0,0.872
+566,RTR,Right Postpiriform transition area,698.0,/997/8/567/688/695/698/566/,Right Cerebral cortex,13.89094,2.99985,35.0,64037.0,0.415
+445,RSPVO,Right Spinal nucleus of the trigeminal oral part,386.0,/997/8/343/1065/354/386/445/,Right Medulla,13.68855,0.99977,35.0,36567.0,0.237
+310,RSF,Right Septofimbrial nucleus,275.0,/997/8/567/623/477/275/310/,Right Cerebral nuclei,13.61278,0.99977,35.0,15936.0,0.103
+851,RSCop,Right Superior colliculus optic layer,302.0,/997/8/343/313/339/302/851/,Right Midbrain,13.60818,2.00008,35.0,42051.0,0.272
+135,RAMB,Right Nucleus ambiguus,370.0,/997/8/343/1065/354/370/135/,Right Medulla,13.491858093158662,2.99985,30.41184,2748.0,0.017
+280,RB,Right Barrington's nucleus,987.0,/997/8/343/1065/771/987/280/,Right Pons,13.44812,4.3724,24.03937,1712.0,0.011
+814,RDP,Right Dorsal peduncular area,698.0,/997/8/567/688/695/698/814/,Right Cerebral cortex,13.38711,4.11765,35.0,13609.0,0.088
+437,RSPVI,Right Spinal nucleus of the trigeminal interpolar part,386.0,/997/8/343/1065/354/386/437/,Right Medulla,13.36706,0.99977,35.0,85835.0,0.556
+803,RPAL,Right Pallidum,623.0,/997/8/567/623/803/,Right Cerebral nuclei,13.30345,0.99977,35.0,72432.0,0.469
+914,RPD,Right Posterodorsal preoptic nucleus,141.0,/997/8/343/1129/1097/141/914/,Right Hypothalamus,13.30227,6.00023,23.00008,118.0,0.001
+1089,RHPF,Right Hippocampal formation,695.0,/997/8/567/688/695/1089/,Right Cerebral cortex,13.29961,0.99977,35.0,172726.0,1.119
+500,RMO,Right Somatomotor areas,315.0,/997/8/567/688/695/315/500/,Right Cerebral cortex,13.26296745411135,1.07828,35.0,1709682.0,11.078
+44,RILA,Right Infralimbic area,315.0,/997/8/567/688/695/315/44/,Right Cerebral cortex,13.259642268712598,3.29412,35.0,100427.0,0.65
+31,RACA,Right Anterior cingulate area,315.0,/997/8/567/688/695/315/31/,Right Cerebral cortex,13.217848576552,2.00008,35.0,320377.0,2.074
+115,RIV,Right Trochlear nucleus,323.0,/997/8/343/313/323/115/,Right Midbrain,13.16861,6.00023,23.47059,237.0,0.002
+958,REPI,Right Epithalamus,856.0,/997/8/343/1129/549/856/958/,Right Thalamus,13.13553771679609,2.00008,35.0,32323.0,0.21
+922,RPERI,Right Perirhinal area,315.0,/997/8/567/688/695/315/922/,Right Cerebral cortex,13.064821880356476,0.0,35.0,122982.0,0.797
+946,RPH,Right Posterior hypothalamic nucleus,467.0,/997/8/343/1129/1097/467/946/,Right Hypothalamus,13.04395,0.54902,35.0,50107.0,0.325
+795,RPAG,Right Periaqueductal gray,323.0,/997/8/343/313/323/795/,Right Midbrain,13.02753,0.99977,35.0,204990.0,1.328
+669,RVIS,Right Visual areas,315.0,/997/8/567/688/695/315/669/,Right Cerebral cortex,13.013296702990546,2.00008,35.0,736889.0,4.776
+651,RNTS,Right Nucleus of the solitary tract,386.0,/997/8/343/1065/354/386/651/,Right Medulla,12.89005,2.00008,35.0,29710.0,0.193
+63,RPVHd,Right Paraventricular hypothalamic nucleus descending division,467.0,/997/8/343/1129/1097/467/63/,Right Hypothalamus,12.87955,4.00015,31.64713,2405.0,0.016
+574,RTRN,Right Tegmental reticular nucleus,987.0,/997/8/343/1065/771/987/574/,Right Pons,12.8683,2.00008,35.0,44585.0,0.289
+753,Rpm,Right principal mammillary tract,46.0,/997/1009/991/824/46/753/,Right fiber tracts,12.86504,8.15679,15.8233,8.0,0.0
+72,RADP,Right Anterodorsal preoptic nucleus,141.0,/997/8/343/1129/1097/141/72/,Right Hypothalamus,12.809759999999999,4.58816,27.23522,1578.0,0.01
+714,RORB,Right Orbital area,315.0,/997/8/567/688/695/315/714/,Right Cerebral cortex,12.805373000723751,0.99977,35.0,232124.0,1.5050000000000001
+1025,RPRM,Right Paramedian lobule,1073.0,/997/8/512/528/1073/1025/,Right Cerebellum,12.64917,0.99977,35.0,273610.0,1.773
+771,RP,Right Pons,1065.0,/997/8/343/1065/771/,Right Pons,12.60351,0.99977,35.0,373887.0,2.423
+898,RPCG,Right Pontine central gray,987.0,/997/8/343/1065/771/987/898/,Right Pons,12.57521,1.35279,35.0,36260.0,0.235
+571,RMTN,Right Midline group of the dorsal thalamus,856.0,/997/8/343/1129/549/856/571/,Right Thalamus,12.460909695788395,0.99977,35.0,69261.0,0.44900000000000007
+395,RMDRN,Right Medullary reticular nucleus,370.0,/997/8/343/1065/354/370/395/,Right Medulla,12.455976285064336,1.01953,35.0,71654.0,0.46399999999999997
+154,RPHY,Right Perihypoglossal nuclei,370.0,/997/8/343/1065/354/370/154/,Right Medulla,12.392978261723986,2.00008,35.0,11195.0,0.07200000000000001
+609,RSPA,Right Subparafascicular area,864.0,/997/8/343/1129/549/864/609/,Right Thalamus,12.35398,3.43137,35.0,2923.0,0.019
+1007,RSIM,Right Simple lobule,1073.0,/997/8/512/528/1073/1007/,Right Cerebellum,12.32613,2.00008,35.0,289083.0,1.873
+254,RRSP,Right Retrosplenial area,315.0,/997/8/567/688/695/315/254/,Right Cerebral cortex,12.271231178128676,1.54879,35.0,685409.0,4.440000000000001
+341,Rsmd,Right supramammillary decussation,824.0,/997/1009/991/824/341/,Right fiber tracts,12.26495,1.41154,31.01961,1015.0,0.007
+354,RMY,Right Medulla,1065.0,/997/8/343/1065/354/,Right Medulla,12.16056,0.0,35.0,583038.0,3.778
+842,RSCsg,Right Superior colliculus superficial gray layer,302.0,/997/8/343/313/339/302/842/,Right Midbrain,12.15556,0.99977,35.0,106643.0,0.691
+333,RSH,Right Septohippocampal nucleus,275.0,/997/8/567/623/477/275/333/,Right Cerebral nuclei,12.09655,2.37232,32.72541,2630.0,0.017
+247,RAUD,Right Auditory areas,315.0,/997/8/567/688/695/315/247/,Right Cerebral cortex,12.075711290034452,0.0,35.0,619123.0,4.013
+153,RV4r,Right lateral recess,145.0,/997/73/145/153/,Right ventricular systems,11.9975,2.00008,35.0,47131.0,0.305
+159,RAON,Right Anterior olfactory nucleus,698.0,/997/8/567/688/695/698/159/,Right Cerebral cortex,11.85801,2.00008,35.0,241094.0,1.562
+928,RCUL,Right Culmen,645.0,/997/8/512/528/645/928/,Right Cerebellum,11.85627,0.99977,35.0,397195.0,2.574
+607,RCN,Right Cochlear nuclei,386.0,/997/8/343/1065/354/386/607/,Right Medulla,11.842311565253233,0.0,35.0,77636.0,0.503
+980,RPMd,Right Dorsal premammillary nucleus,467.0,/997/8/343/1129/1097/467/980/,Right Hypothalamus,11.74594,4.52941,32.64691,4777.0,0.031
+972,RPL,Right Prelimbic area,315.0,/997/8/567/688/695/315/972/,Right Cerebral cortex,11.724565027750359,0.99977,33.82345,107386.0,0.695
+920,RCENT,Right Central lobule,645.0,/997/8/512/528/645/920/,Right Cerebellum,11.60674,1.3138,35.0,210381.0,1.363
+1017,RAN,Right Ansiform lobule,1073.0,/997/8/512/528/1073/1017/,Right Cerebellum,11.60638,0.99977,35.0,679383.0,4.402
+397,Rvtd,Right ventral tegmental decussation,863.0,/997/1009/1000/863/397/,Right fiber tracts,11.58439,0.99977,33.8822,4418.0,0.029
+1049,RFL,Right Flocculus,1073.0,/997/8/512/528/1073/1049/,Right Cerebellum,11.5214,2.00008,35.0,69465.0,0.45
+1097,RHY,Right Hypothalamus,1129.0,/997/8/343/1129/1097/,Right Hypothalamus,11.51921,0.99977,35.0,195118.0,1.264
+88,RAHN,Right Anterior hypothalamic nucleus,467.0,/997/8/343/1129/1097/467/88/,Right Hypothalamus,11.4898,2.23507,34.21546,41256.0,0.267
+1004,RPMv,Right Ventral premammillary nucleus,467.0,/997/8/343/1129/1097/467/1004/,Right Hypothalamus,11.4774,3.43137,28.99977,4716.0,0.031
+1123,Ricp,Right inferior cerebellar peduncle,752.0,/997/1009/960/752/1123/,Right fiber tracts,11.45168,0.99977,35.0,47433.0,0.307
+895,RECT,Right Ectorhinal area,315.0,/997/8/567/688/695/315/895/,Right Cerebral cortex,11.437069788982413,0.0,35.0,110133.0,0.715
+604,RNI,Right Nucleus incertus,1117.0,/997/8/343/1065/771/1117/604/,Right Pons,11.35976,1.35279,35.0,9626.0,0.062
+162,RLDT,Right Laterodorsal tegmental nucleus,1117.0,/997/8/343/1065/771/1117/162/,Right Pons,11.348699999999997,2.99985,32.31365,5818.0,0.038
+830,RDMH,Right Dorsomedial nucleus of the hypothalamus,141.0,/997/8/343/1129/1097/141/830/,Right Hypothalamus,11.217,2.00008,34.45098,29014.0,0.188
+100,RIPN,Right Interpeduncular nucleus,165.0,/997/8/343/313/348/165/100/,Right Midbrain,11.18441,0.99977,35.0,28685.0,0.186
+903,RECU,Right External cuneate nucleus,386.0,/997/8/343/1065/354/386/903/,Right Medulla,11.1439,2.47059,32.96094,5260.0,0.034
+332,RASO,Right Accessory supraoptic group,157.0,/997/8/343/1129/1097/157/332/,Right Hypothalamus,11.09308,9.99985,11.99992,4.0,0.0
+531,RMPT,Right Medial pretectal area,1100.0,/997/8/343/313/323/1100/531/,Right Midbrain,11.0711,0.99977,30.88235,5294.0,0.034
+968,RNOD,Right Nodulus (X),645.0,/997/8/512/528/645/968/,Right Cerebellum,10.9667,0.99977,35.0,70551.0,0.457
+773,RXII,Right Hypoglossal nucleus,370.0,/997/8/343/1065/354/370/773/,Right Medulla,10.91001,0.99977,35.0,20756.0,0.134
+238,RRPO,Right Nucleus raphe pontis,1117.0,/997/8/343/1065/771/1117/238/,Right Pons,10.86439,1.60807,35.0,3814.0,0.025
+541,RTEa,Right Temporal association areas,315.0,/997/8/567/688/695/315/541/,Right Cerebral cortex,10.813314647982653,0.0,35.0,159566.0,1.033
+863,Rrust,Right rubrospinal tract,1000.0,/997/1009/1000/863/,Right fiber tracts,10.7777,0.99977,35.0,23944.0,0.155
+880,RDTN,Right Dorsal tegmental nucleus,987.0,/997/8/343/1065/771/987/880/,Right Pons,10.71519,2.99985,27.82376,4416.0,0.029
+237,Rts,Right solitary tract,917.0,/997/1009/967/917/237/,Right fiber tracts,10.68823,4.0589,31.58839,443.0,0.003
+693,RVMH,Right Ventromedial hypothalamic nucleus,467.0,/997/8/343/1129/1097/467/693/,Right Hypothalamus,10.62307,2.00008,35.0,27057.0,0.175
+38,RPVH,Right Paraventricular hypothalamic nucleus,157.0,/997/8/343/1129/1097/157/38/,Right Hypothalamus,10.564,2.29435,35.0,16549.0,0.107
+581,RTRS,Right Triangular nucleus of septum,826.0,/997/8/567/623/803/826/581/,Right Cerebral nuclei,10.4564,0.99977,33.33318,15143.0,0.098
+904,RMSC,Right Medial septal complex,826.0,/997/8/567/623/803/826/904/,Right Cerebral nuclei,10.41830579464357,0.99977,35.0,112799.0,0.731
+839,RDMX,Right Dorsal motor nucleus of the vagus nerve,370.0,/997/8/343/1065/354/370/839/,Right Medulla,10.40698,2.99985,35.0,5184.0,0.034
+589,RTT,Right Taenia tecta,698.0,/997/8/567/688/695/698/589/,Right Cerebral cortex,10.32939,2.00008,35.0,94129.0,0.61
+698,ROLF,Right Olfactory areas,695.0,/997/8/567/688/695/698/,Right Cerebral cortex,10.31348,0.99977,35.0,227432.0,1.474
+331,RMBO,Right Mammillary body,467.0,/997/8/343/1129/1097/467/331/,Right Hypothalamus,10.262630904648255,0.37278,35.0,52794.0,0.34199999999999997
+523,RMPO,Right Medial preoptic area,141.0,/997/8/343/1129/1097/141/523/,Right Hypothalamus,10.19862,1.37255,35.0,48998.0,0.318
+35,RIII,Right Oculomotor nucleus,323.0,/997/8/343/313/323/35/,Right Midbrain,10.13721,2.99985,25.54917,1357.0,0.009
+78,Rmcp,Right middle cerebellar peduncle,752.0,/997/1009/960/752/78/,Right fiber tracts,9.90991,2.00008,35.0,56188.0,0.364
+754,ROT,Right Olfactory tubercle,493.0,/997/8/567/623/477/493/754/,Right Cerebral nuclei,9.60551,2.00008,35.0,233004.0,1.51
+681,Rmtg,Right mammillotegmental tract,46.0,/997/1009/991/824/46/681/,Right fiber tracts,9.60386,0.99977,35.0,5019.0,0.033
+614,RTU,Right Tuberal nucleus,290.0,/997/8/343/1129/1097/290/614/,Right Hypothalamus,9.43946,2.00008,35.0,25285.0,0.164
+429,RSPVC,Right Spinal nucleus of the trigeminal caudal part,386.0,/997/8/343/1065/354/386/429/,Right Medulla,9.39155,0.0,35.0,99651.0,0.646
+1060,Rdtd,Right doral tegmental decussation,877.0,/997/1009/1000/877/1060/,Right fiber tracts,9.27459,0.99977,34.88251,2445.0,0.016
+611,Rhbc,Right habenular commissure,1083.0,/997/1009/991/824/1083/611/,Right fiber tracts,9.26718,0.99977,27.52949,2901.0,0.019
+951,RPYR,Right Pyramus (VIII),645.0,/997/8/512/528/645/951/,Right Cerebellum,9.20005,1.35279,35.0,54650.0,0.354
+957,RUVU,Right Uvula (IX),645.0,/997/8/512/528/645/957/,Right Cerebellum,9.15693,0.99977,32.94118,129602.0,0.84
+665,Rlot,Right lateral olfactory tract body,21.0,/997/1009/967/840/21/665/,Right fiber tracts,9.09095,2.00008,35.0,81722.0,0.53
+936,RDEC,Right Declive (VI),645.0,/997/8/512/528/645/936/,Right Cerebellum,8.99804,0.62753,35.0,223018.0,1.445
+633,Rcic,Right inferior colliculus commissure,948.0,/997/1009/967/933/948/633/,Right fiber tracts,8.74233,1.27428,19.78447,1088.0,0.007
+784,Rcst,Right corticospinal tract,983.0,/997/1009/983/784/,Right fiber tracts,8.71658,2.00008,30.99985,4306.0,0.028
+62,Rmlf,Right medial longitudinal fascicle,832.0,/997/1009/967/832/62/,Right fiber tracts,8.69314,0.99977,35.0,65485.0,0.424
+449,Rvhc,Right ventral hippocampal commissure,618.0,/997/1009/991/768/1099/618/449/,Right fiber tracts,8.54618,0.99977,29.4313,8408.0,0.054
+206,RRM,Right Nucleus raphe magnus,379.0,/997/8/343/1065/354/379/206/,Right Medulla,8.52767,0.99977,34.41199,10977.0,0.071
+515,RMPN,Right Medial preoptic nucleus,467.0,/997/8/343/1129/1097/467/515/,Right Hypothalamus,8.43707,2.00008,35.0,12716.0,0.082
+507,RMOB,Right Main olfactory bulb,698.0,/997/8/567/688/695/698/507/,Right Cerebral cortex,8.39826,0.99977,35.0,1159205.0,7.512
+689,RVLPO,Right Ventrolateral preoptic nucleus,141.0,/997/8/343/1129/1097/141/689/,Right Hypothalamus,8.39626,2.03906,28.0,1669.0,0.011
+944,RFOTU,Right Folium-tuber vermis (VII),645.0,/997/8/512/528/645/944/,Right Cerebellum,8.29398,0.99977,34.21546,56541.0,0.366
+591,RCLI,Right Central linear nucleus raphe,165.0,/997/8/343/313/348/165/591/,Right Midbrain,8.27022,0.99977,33.05867,5757.0,0.037
+661,RVII,Right Facial motor nucleus,370.0,/997/8/343/1065/354/370/661/,Right Medulla,8.05255,2.00008,35.0,56336.0,0.365
+307,RMARN,Right Magnocellular reticular nucleus,370.0,/997/8/343/1065/354/370/307/,Right Medulla,8.01683,2.00008,34.54925,42911.0,0.278
+452,RMEPO,Right Median preoptic nucleus,141.0,/997/8/343/1129/1097/141/452/,Right Hypothalamus,7.95652,0.99977,34.47074,12634.0,0.082
+938,RPGRN,Right Paragigantocellular reticular nucleus,370.0,/997/8/343/1065/354/370/938/,Right Medulla,7.944517549805165,1.3138,35.0,59281.0,0.385
+794,RsptV,Right spinal tract of the trigeminal nerve,229.0,/997/1009/967/901/229/794/,Right fiber tracts,7.91414,0.0,35.0,118918.0,0.771
+1041,RPFL,Right Paraflocculus,1073.0,/997/8/512/528/1073/1041/,Right Cerebellum,7.86472,0.0,35.0,323931.0,2.099
+145,RV4,Right fourth ventricle,73.0,/997/73/145/,Right ventricular systems,7.83957,0.99977,35.0,46024.0,0.298
+347,RSBPV,Right Subparaventricular zone,141.0,/997/8/343/1129/1097/141/347/,Right Hypothalamus,7.7967,2.00008,26.5687,9903.0,0.064
+841,Rtb,Right trapezoid body,948.0,/997/1009/967/933/948/841/,Right fiber tracts,7.79001,0.09827,35.0,15624.0,0.101
+184,RFRP,Right Frontal pole cerebral cortex,315.0,/997/8/567/688/695/315/184/,Right Cerebral cortex,7.659234751166408,0.99977,31.96063,50154.0,0.325
+158,Rpc,Right posterior commissure,832.0,/997/1009/967/832/158/,Right fiber tracts,7.59824,0.99977,22.64706,2171.0,0.014
+12,RIF,Right Interfascicular nucleus raphe,165.0,/997/8/343/313/348/165/12/,Right Midbrain,7.53532,1.39231,28.47051,2611.0,0.017
+151,RAOB,Right Accessory olfactory bulb,698.0,/997/8/567/688/695/698/151/,Right Cerebral cortex,7.5243799824268915,2.00008,27.6865,44386.0,0.28700000000000003
+93,RmoV,Right motor root of the trigeminal nerve,901.0,/997/1009/967/901/93/,Right fiber tracts,7.4686,2.00008,33.60769,3585.0,0.023
+263,RAVP,Right Anteroventral preoptic nucleus,141.0,/997/8/343/1129/1097/141/263/,Right Hypothalamus,7.37065,2.00008,33.86297,4040.0,0.026
+164,Rc,Right central canal spinal cord/medulla,73.0,/997/73/164/,Right ventricular systems,7.34054,4.31365,13.74525,19.0,0.0
+720,RDCN,Right Dorsal column nuclei,386.0,/997/8/343/1065/354/386/720/,Right Medulla,7.148319152518852,1.52956,35.0,21617.0,0.14
+912,RLING,Right Lingula (I),645.0,/997/8/512/528/645/912/,Right Cerebellum,6.97289,1.35279,33.1767,6463.0,0.042
+129,RV3,Right third ventricle,73.0,/997/73/129/,Right ventricular systems,6.92742,0.99977,34.19623,94574.0,0.613
+118,RPVi,Right Periventricular hypothalamic nucleus intermediate part,157.0,/997/8/343/1129/1097/157/118/,Right Hypothalamus,6.90436,2.00008,31.01961,5646.0,0.037
+235,RLRN,Right Lateral reticular nucleus,370.0,/997/8/343/1065/354/370/235/,Right Medulla,6.79724,0.99977,35.0,38401.0,0.249
+73,RVS,Right ventricular systems,997.0,/997/73/,Right ventricular systems,6.73763,0.99977,35.0,16686.0,0.108
+126,RPVp,Right Periventricular hypothalamic nucleus posterior part,141.0,/997/8/343/1129/1097/141/126/,Right Hypothalamus,6.53745,0.99977,22.70581,8865.0,0.057
+133,RPVpo,Right Periventricular hypothalamic nucleus preoptic part,141.0,/997/8/343/1129/1097/141/133/,Right Hypothalamus,6.34591,2.00008,23.82361,5906.0,0.038
+530,Rdf,Right dorsal fornix,1099.0,/997/1009/991/768/1099/530/,Right fiber tracts,6.26515,0.99977,32.19616,5328.0,0.035
+140,RAQ,Right cerebral aqueduct,73.0,/997/73/140/,Right ventricular systems,5.95995,0.99977,20.76448,20948.0,0.136
+83,RIO,Right Inferior olivary complex,370.0,/997/8/343/1065/354/370/83/,Right Medulla,5.89182,0.99977,35.0,36036.0,0.234
+398,RSOC,Right Superior olivary complex,1132.0,/997/8/343/1065/771/1132/398/,Right Pons,5.872401330664982,2.00008,28.52926,28482.0,0.184
+30,RPVa,Right Periventricular hypothalamic nucleus anterior part,157.0,/997/8/343/1129/1097/157/30/,Right Hypothalamus,5.80245,2.00008,24.33311,428.0,0.003
+859,RPAS,Right Parasolitary nucleus,370.0,/997/8/343/1065/354/370/859/,Right Medulla,5.75929,2.00008,17.58839,542.0,0.004
+173,RRCH,Right Retrochiasmatic area,290.0,/997/8/343/1129/1097/290/173/,Right Hypothalamus,5.71324,2.00008,22.27428,15421.0,0.1
+380,Rcuf,Right cuneate fascicle,514.0,/997/1009/967/792/932/514/380/,Right fiber tracts,5.69702,2.00008,29.21553,1188.0,0.008
+931,RPG,Right Pontine gray,987.0,/997/8/343/1065/771/987/931/,Right Pons,5.6435,2.00008,26.76471,56319.0,0.365
+207,RAP,Right Area postrema,386.0,/997/8/343/1065/354/386/207/,Right Medulla,5.51054,0.99977,33.21569,2985.0,0.019
+642,RNTB,Right Nucleus of the trapezoid body,386.0,/997/8/343/1065/354/386/642/,Right Medulla,5.37532,2.00008,20.23522,6036.0,0.039
+272,RAVPV,Right Anteroventral periventricular nucleus,141.0,/997/8/343/1129/1097/141/272/,Right Hypothalamus,5.13289,2.00008,23.11757,4528.0,0.029
+338,RSFO,Right Subfornical organ,141.0,/997/8/343/1129/1097/141/338/,Right Hypothalamus,4.89442,0.99977,13.66674,1760.0,0.011
+872,RDR,Right Dorsal nucleus raphe,165.0,/997/8/343/313/348/165/872/,Right Midbrain,4.83055,0.99977,21.13725,6428.0,0.042
+197,RRL,Right Rostral linear nucleus raphe,165.0,/997/8/343/313/348/165/197/,Right Midbrain,4.78998,1.39231,28.99977,686.0,0.004
+223,RARH,Right Arcuate hypothalamic nucleus,157.0,/997/8/343/1129/1097/157/223/,Right Hypothalamus,4.56439,0.99977,25.58816,17641.0,0.114
+190,Rpy,Right pyramid,784.0,/997/1009/983/784/190/,Right fiber tracts,4.56005,2.00008,29.39231,38738.0,0.251
+388,Rgrf,Right gracile fascicle,514.0,/997/1009/967/792/932/514/388/,Right fiber tracts,4.19694,2.00008,9.4316,71.0,0.0
+1069,RPPY,Right Parapyramidal nucleus,370.0,/997/8/343/1065/354/370/1069/,Right Medulla,4.04103,2.00008,11.64691,2408.0,0.016
+1016,Ronl,Right olfactory nerve layer of main olfactory bulb,840.0,/997/1009/967/840/1016/,Right fiber tracts,3.83915,0.0,35.0,294209.0,1.906
+975,REW,Right Edinger-Westphal nucleus,323.0,/997/8/343/313/323/975/,Right Midbrain,3.58514,0.99977,14.23552,1729.0,0.011
+286,RSCH,Right Suprachiasmatic nucleus,141.0,/997/8/343/1129/1097/141/286/,Right Hypothalamus,3.55765,2.00008,11.60792,7079.0,0.046
+117,Roch,Right optic chiasm,848.0,/997/1009/967/848/117/,Right fiber tracts,3.47472,0.99977,13.41199,20400.0,0.132
+222,RRO,Right Nucleus raphe obscurus,379.0,/997/8/343/1065/354/379/222/,Right Medulla,3.34411,0.99977,23.64683,1016.0,0.007
+848,RIIn,Right optic nerve,967.0,/997/1009/967/848/,Right fiber tracts,3.26616,1.13703,10.90188,4096.0,0.027
+763,ROV,Right Vascular organ of the lamina terminalis,141.0,/997/8/343/1129/1097/141/763/,Right Hypothalamus,3.00912,0.99977,9.27459,842.0,0.005
+230,RRPA,Right Nucleus raphe pallidus,379.0,/997/8/343/1065/354/379/230/,Right Medulla,2.96728,0.99977,9.99985,2327.0,0.015

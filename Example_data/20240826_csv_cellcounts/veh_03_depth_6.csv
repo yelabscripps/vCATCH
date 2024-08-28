@@ -1,0 +1,29 @@
+LabelID,LabelAbrv,LabelName,ParentID,IDPath,Count,Volume(mm^3)
+4,RIC,Right Inferior colliculus,339.0,/997/8/343/313/339/4/,3.0,3.607
+1080,RHIP,Right Hippocampal region,1089.0,/997/8/567/688/695/1089/1080/,3.0,5.489
+771,RP,Right Pons,1065.0,/997/8/343/1065/771/,2.0,3.753
+88,RAHN,Right Anterior hypothalamic nucleus,467.0,/997/8/343/1129/1097/467/88/,2.0,0.518
+146,RPRNr,Right Pontine reticular nucleus,1117.0,/997/8/343/1065/771/1117/146/,2.0,1.488
+957,RUVU,Right Uvula (IX),645.0,/997/8/512/528/645/957/,2.0,1.148
+10,RSCig,Right Superior colliculus motor related intermediate gray layer,294.0,/997/8/343/313/323/294/10/,2.0,1.207
+822,RRHP,Right Retrohippocampal region,1089.0,/997/8/567/688/695/1089/822/,2.0,1.653
+728,Rarb,Right arbor vitae,960.0,/997/1009/960/728/,2.0,4.244
+26,RSCdg,Right Superior colliculus motor related deep gray layer,294.0,/997/8/343/313/323/294/26/,1.0,0.663
+1060,Rdtd,Right doral tegmental decussation,877.0,/997/1009/1000/877/1060/,1.0,0.021
+1052,RPPN,Right Pedunculopontine nucleus,348.0,/997/8/343/313/348/1052/,1.0,0.303
+1017,RAN,Right Ansiform lobule,1073.0,/997/8/512/528/1073/1017/,1.0,7.755
+968,RNOD,Right Nodulus (X),645.0,/997/8/512/528/645/968/,1.0,0.656
+936,RDEC,Right Declive (VI),645.0,/997/8/512/528/645/936/,1.0,2.536
+898,RPCG,Right Pontine central gray,987.0,/997/8/343/1065/771/987/898/,1.0,0.283
+830,RDMH,Right Dorsomedial nucleus of the hypothalamus,141.0,/997/8/343/1129/1097/141/830/,1.0,0.327
+714,RORB,Right Orbital area,315.0,/997/8/567/688/695/315/714/,1.0,0.242
+31,RACA,Right Anterior cingulate area,315.0,/997/8/567/688/695/315/31/,1.0,0.347
+672,RCP,Right Caudoputamen,485.0,/997/8/567/623/477/485/672/,1.0,14.773
+477,RSTR,Right Striatum,623.0,/997/8/567/623/477/,1.0,1.393
+354,RMY,Right Medulla,1065.0,/997/8/343/1065/354/,1.0,5.105
+313,RMB,Right Midbrain,343.0,/997/8/343/313/,1.0,3.075
+159,RAON,Right Anterior olfactory nucleus,698.0,/997/8/567/688/695/698/159/,1.0,2.167
+153,RV4r,Right lateral recess,145.0,/997/73/145/153/,1.0,0.51
+128,RMRN,Right Midbrain reticular nucleus,323.0,/997/8/343/313/323/128/,1.0,2.973
+56,RACB,Right Nucleus accumbens,493.0,/997/8/567/623/477/493/56/,1.0,2.298
+698,ROLF,Right Olfactory areas,695.0,/997/8/567/688/695/698/,1.0,2.13

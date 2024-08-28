@@ -1,0 +1,22 @@
+LabelID,LabelAbrv,LabelName,ParentID,IDPath,Count,Volume(mm^3)
+4,RIC,Right Inferior colliculus,339.0,/997/8/343/313/339/4/,4.0,1.947
+920,RCENT,Right Central lobule,645.0,/997/8/512/528/645/920/,3.0,1.511
+771,RP,Right Pons,1065.0,/997/8/343/1065/771/,3.0,2.097
+507,RMOB,Right Main olfactory bulb,698.0,/997/8/567/688/695/698/507/,2.0,8.255
+972,RPL,Right Prelimbic area,315.0,/997/8/567/688/695/315/972/,2.0,0.5640000000000001
+822,RRHP,Right Retrohippocampal region,1089.0,/997/8/567/688/695/1089/822/,2.0,1.325
+1041,RPFL,Right Paraflocculus,1073.0,/997/8/512/528/1073/1041/,2.0,1.741
+247,RAUD,Right Auditory areas,315.0,/997/8/567/688/695/315/247/,2.0,0.483
+313,RMB,Right Midbrain,343.0,/997/8/343/313/,1.0,1.769
+354,RMY,Right Medulla,1065.0,/997/8/343/1065/354/,1.0,3.723
+453,RSS,Right Somatosensory areas,315.0,/997/8/567/688/695/315/453/,1.0,0.079
+10,RSCig,Right Superior colliculus motor related intermediate gray layer,294.0,/997/8/343/313/323/294/10/,1.0,0.657
+607,RCN,Right Cochlear nuclei,386.0,/997/8/343/1065/354/386/607/,1.0,0.186
+669,RVIS,Right Visual areas,315.0,/997/8/567/688/695/315/669/,1.0,0.318
+703,RCTXsp,Right Cortical subplate,688.0,/997/8/567/688/703/,1.0,0.429
+146,RPRNr,Right Pontine reticular nucleus,1117.0,/997/8/343/1065/771/1117/146/,1.0,0.993
+136,RIRN,Right Intermediate reticular nucleus,370.0,/997/8/343/1065/354/370/136/,1.0,1.19
+128,RMRN,Right Midbrain reticular nucleus,323.0,/997/8/343/313/323/128/,1.0,1.641
+100,RIPN,Right Interpeduncular nucleus,165.0,/997/8/343/313/348/165/100/,1.0,0.165
+1007,RSIM,Right Simple lobule,1073.0,/997/8/512/528/1073/1007/,1.0,1.87
+477,RSTR,Right Striatum,623.0,/997/8/567/623/477/,1.0,0.906

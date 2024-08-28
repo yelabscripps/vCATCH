@@ -1,0 +1,24 @@
+LabelID,LabelAbrv,LabelName,ParentID,IDPath,Count,Volume(mm^3)
+776,Rcc,Right corpus callosum,983.0,/997/1009/983/776/,3.0,3.837
+771,RP,Right Pons,1065.0,/997/8/343/1065/771/,3.0,2.386
+507,RMOB,Right Main olfactory bulb,698.0,/997/8/567/688/695/698/507/,3.0,7.535
+665,Rlot,Right lateral olfactory tract body,21.0,/997/1009/967/840/21/665/,2.0,0.533
+381,RSNr,Right Substantia nigra reticular part,323.0,/997/8/343/313/323/381/,2.0,0.645
+1009,Rfiber tracts,Right fiber tracts,997.0,/997/1009/,2.0,1.091
+863,Rrust,Right rubrospinal tract,1000.0,/997/1009/1000/863/,2.0,0.147
+1097,RHY,Right Hypothalamus,1129.0,/997/8/343/1129/1097/,2.0,1.284
+354,RMY,Right Medulla,1065.0,/997/8/343/1065/354/,2.0,3.777
+254,RRSP,Right Retrosplenial area,315.0,/997/8/567/688/695/315/254/,2.0,0.943
+313,RMB,Right Midbrain,343.0,/997/8/343/313/,1.0,1.802
+574,RTRN,Right Tegmental reticular nucleus,987.0,/997/8/343/1065/771/987/574/,1.0,0.349
+26,RSCdg,Right Superior colliculus motor related deep gray layer,294.0,/997/8/343/313/323/294/26/,1.0,0.357
+672,RCP,Right Caudoputamen,485.0,/997/8/567/623/477/485/672/,1.0,8.927
+697,Rml,Right medial lemniscus,932.0,/997/1009/967/792/932/697/,1.0,0.25
+153,RV4r,Right lateral recess,145.0,/997/73/145/153/,1.0,0.253
+794,RsptV,Right spinal tract of the trigeminal nerve,229.0,/997/1009/967/901/229/794/,1.0,0.604
+822,RRHP,Right Retrohippocampal region,1089.0,/997/8/567/688/695/1089/822/,1.0,0.313
+117,Roch,Right optic chiasm,848.0,/997/1009/967/848/117/,1.0,0.115
+936,RDEC,Right Declive (VI),645.0,/997/8/512/528/645/936/,1.0,1.372
+73,RVS,Right ventricular systems,997.0,/997/73/,1.0,0.083
+1017,RAN,Right Ansiform lobule,1073.0,/997/8/512/528/1073/1017/,1.0,4.171
+6,Rint,Right internal capsule,784.0,/997/1009/983/784/6/,1.0,0.866
